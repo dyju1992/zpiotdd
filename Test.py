@@ -9,7 +9,7 @@ class Test_Fibonacci(unittest.TestCase):
         self.assertEqual(zad2.Wynik[6], 13)
 
     def test_Fib_sum(self):
-        self.assertEqual(zad2.suma, 0)
+        self.assertEqual(zad2.suma, 4613732)
 
 
 
